@@ -1,1 +1,1 @@
-# Project_detect_text_rekognition
+Placeholder
